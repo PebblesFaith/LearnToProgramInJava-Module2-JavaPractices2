@@ -11,7 +11,7 @@ public class Module2IfElseStatementOnlineCourseExampleStudentDemo {
         Scanner input = new Scanner(System.in);
         System.out.print("What was your overall grade percentage?");
             int grade = input.nextInt();
-            if (grade > 85) {
+ 7          if (grade > 85) {
                 System.out.println("Congratulation, you are admitted to the ABC University!");
             } else if (grade > 75) {
                 System.out.println("Your name has been added to our ABC University waiting list.");
