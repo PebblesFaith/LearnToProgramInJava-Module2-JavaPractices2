@@ -1,6 +1,6 @@
 /*
     Modify your StarFigure program from the previous exercise to become a new program named StarFigure2
-    that uses a global constant fro the figure's height. (You may want to make loop tables first (1st).
+    that uses a global constant from the figure's height. (You may want to make loop tables first (1st).
     The previous output used a constant height of 5, The following are the outputs for the constant
     heights of 3 and 6 using nested loops for chapter 2, Exercise 21 onto page number, 136 from my "Building Java
     Programs, A Back to Basics Approach 5e" textbook" for my online course "Learn to Program in Java"
